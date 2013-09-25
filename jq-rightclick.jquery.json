@@ -1,0 +1,35 @@
+{
+    "name": "jq-rightclick",
+    "title": "jQuery Right Click handler",
+    "description": "jQuery plugin for right-click-handeling.",
+    "keywords": [
+        "mouse",
+        "right",
+		"click"
+    ],
+    "version": "2.1.2",
+    "author": {
+        "name": "Jonathan Bredo",
+        "url": "http://bredo.github.io/"
+    },
+    "maintainers": [
+        {
+            "name": "Jonathan Bredo",
+            "email": "github@mokoda.dk",
+            "url": "http://mokoda.dk/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "GNU GPL v2",
+            "url": "https://raw.github.com/Bredo/jq-rightclick/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/Bredo/jq-rightclick/issues",
+    "homepage": "https://bredo.github.io/jq-rightclick",
+    "docs": "https://github.com/Bredo/jq-rightclick",
+    "download": "https://github.com/Bredo/jq-rightclick",
+    "dependencies": {
+        "jquery": ">=1.0"
+    }
+}
